@@ -2,13 +2,10 @@ h3 {
   font-size: 130%;
 }
 
-  .vaaka_img {
-    width: 90%; 
+.text_img {
+    /* width: 90%; */
   }
   
-  .pysty_img {
-    width: 90%;
-  }
 
   .stitle {
     font-weight: bold;
